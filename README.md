@@ -1,0 +1,2 @@
+# opensos
+NEW irc server
